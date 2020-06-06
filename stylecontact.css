@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+.navbar{
+    background-color: brown !important;
+  
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+}
+footer{
+    background-color: wheat;
+}
+header{
+    background-color: wheat;
+  
+}
+.end{
+    background-color: brown;
+    color: white;
+}

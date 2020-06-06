@@ -1,0 +1,37 @@
+fieldset{
+    background-color:brown;
+   
+}
+p{
+    color: white;
+}
+td{
+    color:white;
+}
+form {
+    margin: 0 auto;
+   
+
+ }
+ h1{
+        color: brown;
+ }
+ 
+footer{
+    background-color: wheat;
+}
+header{
+    background-color: wheat;
+  
+}
+.end{
+    background-color: brown;
+    color: white;
+}
+.navbar{
+    background-color: brown !important;
+  
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold;
